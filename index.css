@@ -52,6 +52,7 @@ body{
 .section-two{
     display: flex;
     gap: 30px;
+    justify-content: space-between;
 }
 .top-section-two{
     display: flex;
@@ -103,3 +104,4 @@ p{
     font-weight: 400;
     line-height: 26px;
 }
+
