@@ -45,14 +45,14 @@ body{
     padding-left: 165px;
     padding-top: 160px;
     padding-right: 70px;
+    justify-content: space-between;
     gap: 70px;
     
 }
 
 .section-two{
     display: flex;
-    gap: 30px;
-    justify-content: space-between;
+    gap: 30px;    
 }
 .top-section-two{
     display: flex;
