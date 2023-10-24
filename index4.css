@@ -1,0 +1,89 @@
+.wrapper-section-four{
+    margin: 0px;
+    padding: 0px; 
+    background-color: #E7EcFF;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.wrapper-section-four .section-four-top{
+    margin-top: 237px;
+}
+.wrapper-section-four .section-four-top .title{
+    margin-bottom: 16px;
+
+    color: #091133;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px;
+
+}
+.wrapper-section-four .section-four-top .section-four-text{
+    color: var(--color-main-blue-400,#6f7cb2);
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    width: 600px;
+}
+.wrapper-section-four .section-four-middle{
+    margin-top: 35px;
+
+}
+.wrapper-section-four .section-four-middle .price{
+    color:var(--color-main-blue-700,#222F65);
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 66px;
+    letter-spacing: 1px;
+    margin: 0px;
+}
+.wrapper-section-four .section-four-middle .kit{
+    color: var(--color-main-blue-600, #37447E);
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    margin: 0px;
+}
+.wrapper-section-four .section-four-bottom{
+    margin-top: 60px;
+    margin-bottom: 172px;
+}
+.wrapper-section-four .section-four-bottom .section-four-text2{
+    margin-top: 9px;
+
+    color: var(--color-main-blue-600,#5D6970);
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.wrapper-section-four .section-four-bottom button{
+    width: 189px;
+    height: 32px;
+    border-radius: 2px;
+    background-color: #111b47;
+
+    color: var(--color-secondary-white-100-general,#FFF);
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+} 

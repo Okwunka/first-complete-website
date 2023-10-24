@@ -1,0 +1,71 @@
+.section-footer{
+    display: flex;
+    flex-direction: column;
+    margin-left: 165px;
+    margin-right: 165px;
+    background: #E7ECFF;
+    height: 216px;
+}
+.section-footer .footer-top{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #CDD1D4;
+
+}
+.section-footer .footer-bottom{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    
+}
+.section-footer .footer-bottom .section-footer-bottom-a{
+    display: flex;
+    gap: 60px;
+    margin: 0px;
+
+    color: var(--colour-main-blue-300,#929ECC);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+.section-footer .footer-bottom .section-footer-bottom-b{
+    display: flex;
+    gap: 30px;
+    align-items: baseline;
+}
+.section-footer .footer-top .copy{
+    color: var(--colour-main-grey-400,#939EA4);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+.section-footer .footer-top .landing{
+    color: var(--colour-logo-primary,#37447E);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 38px;
+
+    margin-top: 61px;
+    margin-bottom: 40px;
+}
+.section-footer .footer-top .purchase{
+    width: 109px;
+    height: 26px;
+    border-radius: 2px;
+    background-color: #111B47;
+
+    color: var(--colour-secondary-white-100-general,#FFF);
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+}
+
